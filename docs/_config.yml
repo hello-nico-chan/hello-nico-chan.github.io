@@ -28,6 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
@@ -52,5 +53,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-cayman
